@@ -5,5 +5,4 @@ __pycache__
 myvenv
 db.sqlite3
 /static
-/hooks
 .DS_Store
